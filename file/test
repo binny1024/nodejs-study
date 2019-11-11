@@ -1,0 +1,4 @@
+sonable approach is to do the basic flow once, do a loop once, and then do a loop a second time. 
+
+
+This method can take another component as its argument, and will then transfer focus to the component that follows in the focus traversal cycle
